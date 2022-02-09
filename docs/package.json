@@ -1,0 +1,19 @@
+{
+  "name": "python-goingdeeper",
+  "version": "0.0.1",
+  "description": "파이썬을 쉽게 정리한 문서입니다",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/python-goingdeeper",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
